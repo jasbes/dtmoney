@@ -1,0 +1,7 @@
+{
+    "maven.view": "flat",
+    "colorize.languages": [
+        "javascript",
+        "typescript"
+    ]
+}
