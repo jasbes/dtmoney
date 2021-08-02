@@ -26,11 +26,11 @@ export const Container = styled.div`
                 color: var(--text-title);
             }
 
-            &.input {
+            &.income {
                 color: var(--green);
             }
 
-            &.output {
+            &.outcome {
                 color: var(--red);
             }
         }

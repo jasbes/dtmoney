@@ -24,6 +24,14 @@ export const Container = styled.div`
             font-size: 2rem;
             font-weight: 500;
             line-height: 3rem;
+
+            &.highlight-outcome {
+                color: var(--red);
+            }
+
+            &.highlight-income {
+                color: var(--green);
+            }
         }
 
         &.highlight-background {
